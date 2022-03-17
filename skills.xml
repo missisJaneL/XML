@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <skills_1>базовая теория тестирования</skills_1>
+   <skills_10>Postman, Fidler</skills_10>
+   <skills_11>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</skills_11>
+   <skills_12>мобильное тестирование</skills_12>
+   <skills_13>особенность iOS, Android, гайдлайны</skills_13>
+   <skills_14>сборка iOS приложений на XCode</skills_14>
+   <skills_15>сборка Android приложений на Android Studio</skills_15>
+   <skills_16>перехват мобильного трафика (сниффинг) через Charles</skills_16>
+   <skills_17>настройка прокси на iOS и Android</skills_17>
+   <skills_18>тестирование API</skills_18>
+   <skills_19>простой bash скриптринг , автоматизация рутинных задач на сервере</skills_19>
+   <skills_2>что такое клиент-серверная архитектура</skills_2>
+   <skills_20>доступ к удалённым серверам</skills_20>
+   <skills_21>основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skills_21>
+   <skills_22>Git</skills_22>
+   <skills_23>Jmeter</skills_23>
+   <skills_24>методология разработки Scrum</skills_24>
+   <skills_25>Python. Создание собственного клиент-серверного приложения</skills_25>
+   <skills_3>методы запросов на сервер</skills_3>
+   <skills_4>ответы сервера</skills_4>
+   <skills_5>Dev Tools веб браузеров (Google Chrome, FireFox)</skills_5>
+   <skills_6>структуры запросов и ответов</skills_6>
+   <skills_7>что такое JSON, XML, их структура</skills_7>
+   <skills_8>тестирование API</skills_8>
+   <skills_9>снятие и чтение логов</skills_9>
+</root>
